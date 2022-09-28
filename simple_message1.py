@@ -1,0 +1,2 @@
+a = "wyf"
+print(a)
